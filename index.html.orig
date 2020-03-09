@@ -6,9 +6,11 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>My-Website</title>
-        <title>MyWebsite</title>
+<<<<<<< HEAD
         <title>My-Website12</title>
+=======
+        <title>MyWebsite</title>
+>>>>>>> 60363ad0a9a0b1b01d7c2463e868f2bddc9a09c0
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="apple-touch-icon" href="apple-touch-icon.png">
